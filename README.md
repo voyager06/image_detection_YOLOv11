@@ -2,7 +2,6 @@
 
 This repository contains a Jupyter notebook implementation for detecting and creating bounding boxes around different elements in documents (figures, tables, and text) using YOLOv11n on the TFT-ID dataset.
 
-![Document Detection Example](screenshot_example.png)
 
 ## 📋 Overview
 
